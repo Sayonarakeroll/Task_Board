@@ -11,7 +11,7 @@ Projeto para gerenciamento de tarefas.
 ## Configuração do Ambiente
 1. Clone o repositório:
    ```bash
-   git clone (https://github.com/Sayonarakeroll/Task_Board.git)
+   git clone https://github.com/Sayonarakeroll/Task_Board.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
