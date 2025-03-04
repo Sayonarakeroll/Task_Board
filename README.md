@@ -1,7 +1,7 @@
 # Task Board
 
 ## Descrição
-Projeto para gerenciamento de tarefas.
+Projeto para gerenciamento de tarefas - Avanade
 
 ## Tecnologias Utilizadas
 - Java
