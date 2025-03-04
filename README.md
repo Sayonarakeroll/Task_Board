@@ -1,32 +1,29 @@
-Task Board
+# Task Board
 
-Descrição
-
+## Descrição
 Projeto para gerenciamento de tarefas.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
+- Java
+- Gradle
+- Liquibase
 
-Java
+## Configuração do Ambiente
+1. Clone o repositório:
+   ```bash
+   git clone [<URL_DO_REPOSITORIO>](https://github.com/Sayonarakeroll/Task_Board.git)
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd board-task
+   ```
+3. Execute o Gradle para compilar o projeto:
+   ```bash
+   ./gradlew build
+   ```
 
-Gradle
-
-Liquibase
-
-Configuração do Ambiente
-
-Clone o repositório:
-
-git clone [<URL_DO_REPOSITORIO>](https://github.com/Sayonarakeroll/Task_Board.git)
-
-Navegue até o diretório do projeto:
-
-cd board-task
-
-Execute o Gradle para compilar o projeto:
-
-./gradlew build
-
-Licença
-
+## Licença
 Este projeto é apenas para fins acadêmicos.
+
+---
 
